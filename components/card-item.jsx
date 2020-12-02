@@ -7,3 +7,5 @@ export const CardItem = (props) => (
 		<p className="text-lg my-2">{props.monsters.email}</p>
 	</div>
 );
+
+export default CardItem;

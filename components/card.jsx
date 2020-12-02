@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardItem } from './card-item.js';
+import { CardItem } from './card-item.jsx';
 
 
 export const Card = props => (
