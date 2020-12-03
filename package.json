@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ozlemts/React-Next10-Tailwind2-Starter",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {

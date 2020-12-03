@@ -1,3 +1,8 @@
+This project uses Next.10 and Tailwind 2
+
+DEMO: https://react-next10-tailwind2-starter-bcopx9ovv.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
