@@ -1,5 +1,6 @@
-export default function Prices() {
+const Prices =()=> {
 	return (
 		<div>Prices</div>
 	);
 }
+export default Prices;
